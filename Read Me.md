@@ -6,3 +6,7 @@
    - [opencv-eigenfaces-for-face-recognition](https://pyimagesearch.com/2021/05/10/opencv-eigenfaces-for-face-recognition/)
    - [face-recognition-with-local-binary-patterns-lbps-and-opencv](https://pyimagesearch.com/2021/05/03/face-recognition-with-local-binary-patterns-lbps-and-opencv/)
     - [face-detection-with-opencv-and-deep-learning](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
+
+17-09-26 Time: 23:33
+1. Removed all files not doing it with this but refering to an official document tutorial of facerecognition from opencv:
+   [OPENCV_tutorial_face_main.html#tutorial_face_facedb](https://docs.opencv.org/3.4.9/da/d60/tutorial_face_main.html#tutorial_face_facedb)
