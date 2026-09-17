@@ -10,3 +10,5 @@
 17-09-26 Time: 23:33
 1. Removed all files not doing it with this but refering to an official document tutorial of facerecognition from opencv:
    [OPENCV_tutorial_face_main.html#tutorial_face_facedb](https://docs.opencv.org/3.4.9/da/d60/tutorial_face_main.html#tutorial_face_facedb)
+2. Firstly I will go through some free courses from opencv:
+   - Starting with this: [OPENCV BOOTCAMP](https://opencv.org/university/free-opencv-course/?utm_source%3Dopcvu%26utm_medium%3Dmenu%26utm_campaign%3Dobc)
